@@ -16,7 +16,7 @@ class CacheclearCommand extends ContainerAwareCommand
     {
         parent::configure();
 
-        $this->setName('iddeos:empty:cache');
+        $this->setName('unix:cache:clear');
     }
 
     /**
