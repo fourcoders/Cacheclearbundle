@@ -1,5 +1,5 @@
 {
-    "name": "fourcoders/cacheclear-bundle",
+    "name": "fourcoders/cache-clear-bundle",
     "type": "symfony-bundle",
     "description": "This bundle give you a correct clean cache in your symfony 2 proyect. Only for unix systems.",
     "keywords": ["crud", "symfony"],
