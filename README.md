@@ -27,4 +27,4 @@ Add in your app/AppKernel.php
 
 Use it whit the command
   
-    'unix:cache:clear'
+    unix:cache:clear
