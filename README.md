@@ -25,6 +25,6 @@ Add in your app/AppKernel.php
           );
       }
 
-Use it whit the command
+Use it with the command
   
     unix:cache:clear
