@@ -7,7 +7,7 @@ Add in your composer.json
 
     {
         "require": {
-            "fourcoders/cacheclear-bundle": "dev-master"
+            "fourcoders/cache-clear-bundle": "dev-master"
         }
     }
 
